@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     name: `Tolu Olubode`,
-    title: `Gatsby + Netlify Slide Deck`,
-    date: `July 30, 2018`,
+    title: `Getting Started with ReactJS Deck`,
+    date: `December 1, 2018`,
   },
   plugins: [
     `gatsby-plugin-layout`,

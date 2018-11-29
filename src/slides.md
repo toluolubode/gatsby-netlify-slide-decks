@@ -1,11 +1,77 @@
-# Gatsby + Netlify
+# Getting started with ReactJS
 
-Build beautiful static sites can be dead easy.
+Building beautiful static sites can be 💀 easy! 
 
 ---
 
-> Placeholder quote here 
-> <cite>Place holder name here</cite>
+> Boy I'd like to build a website some day!
+> <cite>Every student ever</cite>
+
+---
+
+# Who am I?
+
+    I'm a guy who does React stuff and likes to design
+
+
+                        💻  & 👨🏿‍🎨 
+
+---
+
+## But really...
+
+    - 3rd year Software Engineering
+  
+    - VP @ uOttawa SESA
+  
+    - Web Developer
+  
+    - Designin' at uOttahack
+  
+    - UI/UX Designer
+
+---
+
+# What are we covering today?
+
+    -What isn't ReactJS?
+
+    -What is ReactJS?
+
+        -Stateless vs Stateful components
+
+    -Why should you use it?
+
+    -Getting started with some code! 💻
+
+---
+
+# What isn't ReactJS?
+
+---
+
+## React is not...
+
+    -
+
+---
+
+
+# What is ReactJS?
+
+    ...and why you should care
+
+---
+
+## React is...
+
+    -
+
+---
+
+# Why should you use it?
+
+    -
 
 ---
 
@@ -14,18 +80,8 @@ Build beautiful static sites can be dead easy.
 
 ---
 
-# Benefits 
-
-Why use this?
-
-- Security
-- Speed
-- Smaller
-- Version Control
-
----
-
-## Pros
+# Getting started with some code!
 
 
+![Code](https://www.dropbox.com/s/3s7sefkgutwulqk/carbon-1.png?raw=1)
 

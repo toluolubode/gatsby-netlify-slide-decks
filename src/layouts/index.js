@@ -7,14 +7,20 @@ import Transition from '../components/transition';
 
 import './index.css';
 
-const Header = ({ name, title, date }) => (
+const Header = ({ title, date }) => (
   <header>
     <Link to="/1">
-      <span>{name}</span> — {title}
+        {title}
     </Link>
     <time>{date}</time>
   </header>
 );
+
+const Footer = ({name}) =>(
+  <footer>
+    <span>Made with 💚 & ☕️ by <a target="_blank" rel="noopener noreferrer" href="https://www.tolu.design/">{name}</a> </span>
+  </footer>
+)
 
 class TemplateWrapper extends Component {
   NEXT = [13, 32, 39];
@@ -62,7 +68,6 @@ class TemplateWrapper extends Component {
           title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
         />
         <Header
-          name={site.siteMetadata.name}
           title={site.siteMetadata.title}
           date={site.siteMetadata.date}
         />
@@ -74,6 +79,9 @@ class TemplateWrapper extends Component {
             <div id="slide">{children}</div>
           </Transition>
         </Swipeable>
+        <Footer
+          name={site.siteMetadata.name}
+        />
       </div>
     );
   }
