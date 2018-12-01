@@ -33,13 +33,17 @@ Building beautiful static sites can be 💀 easy!
 
 ---
 
+![Code](https://www.dropbox.com/s/aijq66k3fqibzaq/helloworld.png?raw=1)
+
+---
+
 # What are we covering today?
 
     -What isn't ReactJS?
 
     -What is ReactJS?
 
-        -Stateless vs Stateful components
+        -Stateful vs Stateless components
 
     -Why should you use it?
 
@@ -70,6 +74,8 @@ Building beautiful static sites can be 💀 easy!
 
 ## ReactJS is...
 
+    - Lego for web developers
+  
     - JavaScript library for building user interfaces
   
     - The V in MVC
@@ -78,7 +84,21 @@ Building beautiful static sites can be 💀 easy!
 
 ---
 
-![Code](https://www.dropbox.com/s/ai90qaf8hr3ogmc/examplereact.png?raw=1)
+### Stateful vs Stateless Components
+
+    The InputFormComponent vs The TitleComponent
+
+---
+
+![Code](https://www.dropbox.com/s/l3nul1vniy0mgql/stateful%20component-white.png?raw=1)
+
+---
+
+![Code](https://www.dropbox.com/s/dhmluvqcz1x2z7d/statelesscomo.png?raw=1)
+
+---
+
+![Code](https://www.dropbox.com/s/5neuwpo8ye41ltt/statelesscomo1.png?raw=1)
 
 ---
 
@@ -99,15 +119,10 @@ Building beautiful static sites can be 💀 easy!
 
 # An example site built with ReactJS
 
-
   [Spotify Jamroom](https://spotifyjamroom.netlify.com/)
-
-
 
 ---
 
 # Getting started with some code!
 
-
-![Code](https://www.dropbox.com/s/3s7sefkgutwulqk/carbon-1.png?raw=1)
-
+![Code](https://www.dropbox.com/s/d45gssxxwk8uqvl/gitclone.png?raw=1)
